@@ -2,7 +2,7 @@
 ## Raspberry Pi with a relay HAT to activate a garage door opener (used an existing 'switch' connection on an existing garage door opener)
 
 Features:
-  - Raspberry Pi web page to control the door - only accissible on home network
+  - Raspberry Pi web page to control the door - only accessible on home network
   - Web page shows temperature in garage - now, max & min from midnight
   - Enable / Disable to prevent accidental door activation
   - External switch provides local control inside the garage
