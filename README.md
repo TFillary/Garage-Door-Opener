@@ -14,7 +14,7 @@ Features:
 
 ![20210425_141209](https://user-images.githubusercontent.com/30411837/128991502-967a53f4-af42-40d6-b2a7-9b0f530aefb2.jpg)
 
-### Uses:
+### Components:
   - Raspberry Pi Zero
   - sb components Zero Relay 2 Channel 5V Relay Shield for Raspberry Pi
   - Adafruit MCP9808 High Accuracy I2C Temperature Sensor Breakout Board
