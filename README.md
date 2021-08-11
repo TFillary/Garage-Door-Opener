@@ -18,3 +18,9 @@ Features:
   - Raspberry Pi Zero
   - sb components Zero Relay 2 Channel 5V Relay Shield for Raspberry Pi
   - Adafruit MCP9808 High Accuracy I2C Temperature Sensor Breakout Board
+
+### Notes:
+  - Install Adafruit library on the Raspberry Pi
+  - Install Apache web server & PHP on the Raspberry Pi
+  - Copy garagedoor.php file as index.php into /var/www/html
+  - Edit req_ip_log.txt to contain valid IP addresses of devices to control the door (make device IPs fixed at router) - copy file to /var/www/html 
