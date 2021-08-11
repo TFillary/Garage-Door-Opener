@@ -1,5 +1,5 @@
 # Garage-Door-Opener
-## Raspberry Pi with a relay HAT to activate a garage door opener (used an existing 'switch' connection on an existing garage door opener)
+## Raspberry Pi with a relay HAT to activate a garage door opener (used an existing 'switch' connection on an existing electric garage door opener)
 
 Features:
   - Raspberry Pi web page to control the door - only accessible on home network
