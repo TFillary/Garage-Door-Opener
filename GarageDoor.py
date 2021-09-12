@@ -176,6 +176,9 @@ def loop():
                 LowTempTime = now.strftime("%d/%m/%Y %H:%M")
                 HiTemp = temperature
                 HiTempTime = now.strftime("%d/%m/%Y %H:%M")
+
+        # Delay to allow RPi to process server requests
+        time.sleep(0.2)  
             
 
 # Main setup and initialisation code
